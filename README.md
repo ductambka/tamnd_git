@@ -1,1 +1,3 @@
 # tamnd_git
+# Author: ductambka@gmail.com
+# This is bash script execute show "Hello world, from tamnd" on console...
